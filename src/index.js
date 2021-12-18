@@ -1,5 +1,5 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from 'react'; //react core engine library
+import ReactDOM from 'react-dom'; //react web library which handles virtual dom
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
